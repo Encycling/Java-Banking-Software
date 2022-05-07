@@ -9,3 +9,10 @@ I made this because I'm dropping C# (Not really, im just trying to learn new lan
 # How to use
 
 download an ide and clone the repository. and then run it. thats it lol
+
+# Change Logs
+
+5/7/2022
+
+1. I deleted the change pin choice because it was basically useless.
+2. thats kinda it
