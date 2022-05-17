@@ -80,7 +80,7 @@ public class mainClass {
 			System.out.println("Your pin was incorrect, please try again.");
 		}
 		
-		System.out.println("Original idea by some random tutorial\n rewritten in java by EpicGamer45#9027");
+		System.out.println("Original idea by some random tutorial\nrewritten in java by EpicGamer45#9027");
 		
 		// Technically not made by me.
 		// There was a C# tutorial on how to do this, but I just decided
