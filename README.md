@@ -1,3 +1,1 @@
-- This is going to be updated soon.
-- (I'm gonna be re-writing this so that its cleaner and better)
-- (And yes, I'm going to be using a tutorial)
+going to be updated soon using tutorials. Im doing it to make a better overall java program
