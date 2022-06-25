@@ -11,5 +11,5 @@ I'M ONLY DOING THIS TO
 
 # OTHER INFO
 
-- I might update this soon to make it more professional
+- I might update this soon to make it better
 - again, I take no credit, and I'm only doing this to learn java.
